@@ -1,1 +1,3 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Meine erste Git-Website
+Ich mache diesen Kurs einfach aus Interesse
+
