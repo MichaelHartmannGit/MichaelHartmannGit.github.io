@@ -8,3 +8,7 @@ Ich mache diesen Kurs einfach aus Interesse
 * lese Bücher und höre Hörspiele
 
 
+Wie Kerstin Dämon sagt
+> Geduld ist der 
+> Schlüssel zum Erfolg
+
